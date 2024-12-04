@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Feline Express Railway</title>
 </head>
 
 <body>
@@ -19,14 +18,14 @@
             <li>Full service salon onboard</li>
         </ul>
     
-<h3>Gallery</h3>
+<h2>Gallery</h2>
  
 <img src="https://katiegracehammond.com/wp-content/uploads/2024/12/leg-room-economy.jpg" width="50%"
                     alt="Cat streching in aisle of passenger railcar to demonstrate ample leg room">
 <img src="https://katiegracehammond.com/wp-content/uploads/2024/12/luxury-dining-car.jpg" width="50%"
                     alt="Felines sitting at table in luxury dining car">
-<img src="https://katiegracehammond.com/wp-content/uploads/2024/12/full-service-salon.jpg" width="50%" alt="Cat sitting in salon chair">        
-    </main>
+                    <img src="https://katiegracehammond.com/wp-content/uploads/2024/12/full-service-salon-2.jpg" width="50%"   alt="Cat in salon chair">
+</main>
+<footer> <h3> Not Affliated with <a href="https://www.amtrak.com/">Amtrak </a> </h3> </footer>
 </body>
-
 </html>
